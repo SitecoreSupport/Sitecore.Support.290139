@@ -57,9 +57,6 @@
     <Compile Include="Web\XFrameOptionsHeaderModule.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\zzz\Sitecore.Support.290139.config" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="packages.config" />
     <None Include="web.config" />
   </ItemGroup>
